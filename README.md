@@ -1,1 +1,2 @@
-# CS392_workshop2
+# SE
+workshop2
